@@ -1,0 +1,42 @@
+/*
+Lab 3 CSS styles
+CSS styles for Ultimate frisbee page
+*/
+
+body {
+  color: white;
+  font: 12pt "Tahoma", "Arial", sans-serif;
+  background-image:url("Background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul{
+	list-style-type: square;
+}
+
+table{
+	border:7px solid pink;
+}
+
+img{
+ border: 2px solid pink;
+}
+
+
+footer {
+text-align: center;
+font-size:small;
+}
+
+h2,h1{
+color:pink;
+}
+.altrow:nth-child(odd) {
+  background-color: yellow;
+  color:black;
+}
+.altrow:nth-child(even) {
+  background-color: red;
+}
