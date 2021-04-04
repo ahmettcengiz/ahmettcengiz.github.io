@@ -1,0 +1,46 @@
+.advertisement
+{
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:black;
+	font-weight:bold;
+	position:absolute;
+	top: 9px;
+	left: 9px;
+}
+.header {
+	width: 70%;
+	margin-left:150px;
+	margin-right:auto;
+	margin-bottom:60px;
+}
+.logo img
+{
+	float:left;
+	width:250px;
+}
+.content {
+	clear:both;
+	width: 70%;
+	margin-left:150px;
+	margin-right:auto;
+	margin-bottom:70px;
+	text-align:justify;
+}
+.title {
+	padding: 1px;
+}
+.head {
+	width: 70%;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+.image img{
+	float:left;
+	width:250px;
+	margin-right:10px;
+}
