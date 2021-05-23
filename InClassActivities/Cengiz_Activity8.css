@@ -1,7 +1,7 @@
 #buttonClick{
     display: block;
     position: absolute;
-	padding: 15px 30px;
+	padding: 18px 35px;
 	margin-left:300px;
 	background: url(blue_button.png);
 }
