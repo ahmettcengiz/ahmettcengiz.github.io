@@ -1,7 +1,7 @@
 #buttonClick{
     display: block;
     position: absolute;
-	background-size: cover;
+	padding: 15px 30px;
 	background: url(blue_button.png);
 }
 footer{
