@@ -3,7 +3,7 @@
     position: absolute;
 	padding: 25px 40px;
 	margin-left:300px;
-	background: blue_button.png
+	background: url(blue_button.png);
 }
 footer{
 	margin-top:150px;
