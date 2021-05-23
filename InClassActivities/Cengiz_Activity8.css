@@ -1,0 +1,10 @@
+#buttonClick{
+    display: block;
+    position: absolute;
+	background-color: red;
+	padding: 25px 40px;
+	margin-left:300px;
+}
+footer{
+	margin-top:150px;
+}
