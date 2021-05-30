@@ -1,0 +1,15 @@
+.input {
+  margin-top:5px;
+  margin-bottom:5px;
+ }
+.button {
+  margin-top:50px;
+  margin-bottom:20px;
+ }
+label {
+  width: 150px;
+  float: left;
+ }
+br {
+  clear: left;
+   }
