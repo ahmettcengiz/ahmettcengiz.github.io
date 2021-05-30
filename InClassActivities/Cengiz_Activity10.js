@@ -11,6 +11,6 @@ var languages = [
     "C#",
     "Python"
     ];
-$( "#languages" ).autocomplete({
+$("#languages").autocomplete({
     source: languages 
     });
