@@ -3,7 +3,7 @@ $('body').imagesLoaded( function() {
  });
 });
 $.ajax({
-    url:"deneme.json",
+    url:"localdata.json",
     dataType:"json",
     type:"GET",
     success:function (data){
