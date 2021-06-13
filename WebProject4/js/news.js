@@ -4,7 +4,8 @@ $.ajax({
     type:"GET",
     success:function (data){
         for (let i=0;i<8;i++){
-            $("#imgitem"+i+"").append(data["items"][i].media.m);
+            $("#imgitem"+i+"").attr("src",data["items"][i].media.m);
+	
            console.log(data["items"][i].media.m);
         }
     },
